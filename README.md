@@ -1,16 +1,16 @@
 # myFirstGit
-#Project Title: myFirstGit
-##Project Description: 
+Project Title: myFirstGit
+
+Project Description: 
 Understanding how to use github.
 
-##Install Instructions: 
+Install Instructions: 
 Clone the repository, Open the repo in your environment, install dependencies.
 
-##Run Instructions:
+Run Instructions:
 Open the integrated terminal and type "node index.js"
 
-##Table of Weeks:
-
+Table of Weeks:
 | Week    | Course Content |
 |---------|----------------|
 | Week 1  | Introduction to JavaScript and Nodejs |
